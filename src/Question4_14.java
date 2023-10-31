@@ -21,7 +21,7 @@ public class Question4_14 {
 	public static void fun( String dir ) {
 		inPut(dir);
 		Arrays.sort(nums);
-		//求最小值
+		//求最小值,....
 		List<Integer> list = new ArrayList<>();
 		list.addAll(Arrays.asList(nums));
 		int num = n / k + n % k;
